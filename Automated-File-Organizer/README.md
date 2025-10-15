@@ -1,8 +1,7 @@
 # Automated File Organizer
 
 ## Description
-A powerful Ubuntu Bash script to automatically organize files in the Downloads folder and its subfolders by type.  
-Files are moved into folders: Images, Documents, Scripts, Videos, Archives, Music, and Text Files.
+A powerful Ubuntu Bash script to automatically organize files in the Downloads folder and its subfolders by type. Files are moved into folders: Images, Documents, Scripts, Videos, Archives, Music, and Text Files.
 
 ## Features
 - Recursively scans the `~/Downloads` directory.
